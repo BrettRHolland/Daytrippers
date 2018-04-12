@@ -17,13 +17,11 @@
 /yarn-error.log
 
 .byebug_history
+/public/packs
 /public/packs-test
 /node_modules
 yarn-debug.log*
 .yarn-integrity
-/coverage
+
 .env
 Procfile
-/public/uploads
-public/packs/*
-!public/packs/manifest.json
